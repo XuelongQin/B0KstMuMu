@@ -1,0 +1,63 @@
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+
+[Moment::main]	Parameter Type = 	P8pS
+
+[Moment::main]	Sample Type = 	gen
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 0:P8pS = 0.00479509+/- 0.00684792
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 1:P8pS = 0.00364894+/- 0.0058208
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 2:P8pS = -0.00554569+/- 0.00585658
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 3:P8pS = 0.00461542+/- 0.00388186
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 4:P8pS = 0.00230887+/- 0.00499163
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 5:P8pS = -0.000618429+/- 0.00347029
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 6:P8pS = -0.00157718+/- 0.00514921
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 7:P8pS = 0.000241777+/- 0.00466074
+
+[Moment::GenCalValue]	Try to open	GEN_BFilter_B0MuMuKstar_p1.root
+
+[Moment::GenCalValue]	Total number of events in the tree: 2800980 @@@
+
+[Moment::GenCalValue]	 q2bin = 8:P8pS = -0.00356229+/- 0.00467063
