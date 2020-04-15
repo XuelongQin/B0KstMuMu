@@ -1,0 +1,143 @@
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+
+[Moment::main]	Parameter Type = 	P4pS
+
+[Moment::main]	Sample Type = 	reco
+
+[Moment::main]	Events Tag Type = 	mis
+TagType = misq2Bin = 0q2Min = 1q2Max = 2
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b0_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+entries1 is 14731
+entries2 is 14731
+P4 value is -nan
+P4 error is -nan
+
+[Moment::RecoCalValue]	 q2bin = 0:P4pS = -nan+/- -nan
+TagType = misq2Bin = 1q2Min = 2q2Max = 4.3
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b1_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+entries1 is 33638
+entries2 is 33638
+P4 value is 0.105888
+P4 error is 0.105888
+
+[Moment::RecoCalValue]	 q2bin = 1:P4pS = 0.105888+/- 0.0417668
+TagType = misq2Bin = 2q2Min = 4.3q2Max = 6
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b2_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+entries1 is 28658
+entries2 is 28658
+P4 value is -nan
+P4 error is -nan
+
+[Moment::RecoCalValue]	 q2bin = 2:P4pS = -nan+/- 0
+TagType = misq2Bin = 3q2Min = 6q2Max = 8.68
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b3_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+entries1 is 59279
+entries2 is 59279
+P4 value is -0.75112
+P4 error is -0.75112
+
+[Moment::RecoCalValue]	 q2bin = 3:P4pS = -0.75112+/- 0.0202769
+TagType = misq2Bin = 5q2Min = 10.09q2Max = 12.86
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b5_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+entries1 is 85213
+entries2 is 85213
+P4 value is -0.835758
+P4 error is -0.835758
+
+[Moment::RecoCalValue]	 q2bin = 5:P4pS = -0.835758+/- 0.0152419
+TagType = misq2Bin = 7q2Min = 14.18q2Max = 16
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b7_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+entries1 is 54268
+entries2 is 54268
+P4 value is -1.12563
+P4 error is -1.12563
+
+[Moment::RecoCalValue]	 q2bin = 7:P4pS = -1.12563+/- 0.0191004

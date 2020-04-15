@@ -1,0 +1,131 @@
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+
+[Moment::main]	Parameter Type = 	P8pS
+
+[Moment::main]	Sample Type = 	reco
+
+[Moment::main]	Events Tag Type = 	mis
+TagType = misq2Bin = 0q2Min = 1q2Max = 2
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/x/xuqin/work/B0KstMuMu/fit/eff-KDE/files_forSimFit/KDEeff_b0_od_2017.root
+file is existed
+correctly tagged efficiency exists
+wrongly tagged efficiency exists
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+correctly-tagged events is 0
+wrongly-tagged events is 14731
+
+[Moment::RecoCalValue]	 q2bin = 0:P8pS = -nan+/- -nan
+TagType = misq2Bin = 1q2Min = 2q2Max = 4.3
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/x/xuqin/work/B0KstMuMu/fit/eff-KDE/files_forSimFit/KDEeff_b1_od_2017.root
+file is existed
+correctly tagged efficiency exists
+wrongly tagged efficiency exists
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+correctly-tagged events is 0
+wrongly-tagged events is 33634
+
+[Moment::RecoCalValue]	 q2bin = 1:P8pS = -nan+/- -nan
+TagType = misq2Bin = 2q2Min = 4.3q2Max = 6
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/x/xuqin/work/B0KstMuMu/fit/eff-KDE/files_forSimFit/KDEeff_b2_od_2017.root
+file is existed
+correctly tagged efficiency exists
+wrongly tagged efficiency exists
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+correctly-tagged events is 0
+wrongly-tagged events is 28549
+
+[Moment::RecoCalValue]	 q2bin = 2:P8pS = -nan+/- -nan
+TagType = misq2Bin = 3q2Min = 6q2Max = 8.68
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/x/xuqin/work/B0KstMuMu/fit/eff-KDE/files_forSimFit/KDEeff_b3_od_2017.root
+file is existed
+correctly tagged efficiency exists
+wrongly tagged efficiency exists
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+correctly-tagged events is 0
+wrongly-tagged events is 49897
+
+[Moment::RecoCalValue]	 q2bin = 3:P8pS = -0.135883+/- 0.00953336
+TagType = misq2Bin = 5q2Min = 10.09q2Max = 12.86
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/x/xuqin/work/B0KstMuMu/fit/eff-KDE/files_forSimFit/KDEeff_b5_od_2017.root
+file is existed
+correctly tagged efficiency exists
+wrongly tagged efficiency exists
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+correctly-tagged events is 0
+wrongly-tagged events is 73758
+
+[Moment::RecoCalValue]	 q2bin = 5:P8pS = -0.00417298+/- 0.00845083
+TagType = misq2Bin = 7q2Min = 14.18q2Max = 16
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/x/xuqin/work/B0KstMuMu/fit/eff-KDE/files_forSimFit/KDEeff_b7_od_2017.root
+file is existed
+correctly tagged efficiency exists
+wrongly tagged efficiency exists
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+total entries is 2841914
+correctly-tagged events is 0
+wrongly-tagged events is 49422
+
+[Moment::RecoCalValue]	 q2bin = 7:P8pS = 0.00669329+/- 0.0104855

@@ -1,0 +1,113 @@
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+
+[Moment::main]	Parameter Type = 	P6pS
+
+[Moment::main]	Sample Type = 	reco
+
+[Moment::main]	Events Tag Type = 	mis
+
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b0_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+
+[Moment::RecoCalValue]	 q2bin = 0:P6pS = 0.155844+/- 8.07794e-11
+
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b1_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+
+[Moment::RecoCalValue]	 q2bin = 1:P6pS = -nan+/- -nan
+
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b2_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+
+[Moment::RecoCalValue]	 q2bin = 2:P6pS = -0.00233372+/- 0.00096526
+
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b3_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+
+[Moment::RecoCalValue]	 q2bin = 3:P6pS = 0.0646438+/- 0.00367366
+
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b5_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+
+[Moment::RecoCalValue]	 q2bin = 5:P6pS = -0.0231105+/- 0.004866
+
+[Moment::ReCalValue]	Try to open/afs/cern.ch/user/a/aboletti/public/Run2-KstarMuMu/KDEeff/latestVersion-integrals/KDEeff_b7_od.root
+file is existed
+correctly tagged efficiency is existed
+wrongly tagged efficiency is existed
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effCData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctK expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable ctL expanded to nearest bin boundaries: [-1,1] --> [-1,1]
+[#1] INFO:DataHandling -- RooDataHist::adjustBinning(effWData): fit range of variable phi expanded to nearest bin boundaries: [-3.14159,3.14159] --> [-3.14159,3.14159]
+
+[Moment::CalValue]	 @@@ Making datasets @@@ 
+
+[Moment::CalValue]	Total number of events in the tree: 2841914 @@@
+
+[Moment::RecoCalValue]	 q2bin = 7:P6pS = 0.005257+/- 0.0090073
